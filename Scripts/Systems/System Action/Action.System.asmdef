@@ -1,0 +1,24 @@
+{
+    "name": "Action.System",
+    "rootNamespace": "",
+    "references": [
+        "GUID:88396f1e41443f140a488bc0fee4a1a0",
+        "GUID:df28ee89dd1111947b4a286b06755a7b",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:3ae5734e49d646442ad24f37762ebdd2",
+        "GUID:dc04f38471c3a459fb4d31124ee9127d",
+        "GUID:a939d28f6bb99b449b64f2b45b3d61d1",
+        "GUID:f846e51adb2a9474e99de133c1f8ca59",
+        "GUID:74d471dc07362974e91d006b6e9118a7",
+        "GUID:a6d628dc6aaa5db40be4f614ad6500eb"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

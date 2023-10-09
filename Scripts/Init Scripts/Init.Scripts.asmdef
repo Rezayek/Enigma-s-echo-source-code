@@ -1,0 +1,16 @@
+{
+    "name": "Init.Scripts",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f846e51adb2a9474e99de133c1f8ca59"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

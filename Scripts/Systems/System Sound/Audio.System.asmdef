@@ -1,0 +1,24 @@
+{
+    "name": "Audio.System",
+    "rootNamespace": "",
+    "references": [
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:3ae5734e49d646442ad24f37762ebdd2",
+        "GUID:dc04f38471c3a459fb4d31124ee9127d",
+        "GUID:5fd82f7552f095046ab3ff8863388c9f",
+        "GUID:88396f1e41443f140a488bc0fee4a1a0",
+        "GUID:a939d28f6bb99b449b64f2b45b3d61d1",
+        "GUID:71802f66d08e4764d8ea415375426ce5",
+        "GUID:128784a047a076649b63610f588d5407",
+        "GUID:f846e51adb2a9474e99de133c1f8ca59"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

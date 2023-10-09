@@ -1,0 +1,21 @@
+{
+    "name": "InventoryUI.System",
+    "rootNamespace": "",
+    "references": [
+        "GUID:df28ee89dd1111947b4a286b06755a7b",
+        "GUID:88396f1e41443f140a488bc0fee4a1a0",
+        "GUID:7b7a2e00bffb56247ae916e52a68b9a3",
+        "GUID:f846e51adb2a9474e99de133c1f8ca59",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:a939d28f6bb99b449b64f2b45b3d61d1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

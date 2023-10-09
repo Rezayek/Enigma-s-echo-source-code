@@ -1,0 +1,20 @@
+{
+    "name": "Senario.Selection",
+    "rootNamespace": "",
+    "references": [
+        "GUID:34ad3a3bc8b5c0f458bdca0a6a15532b",
+        "GUID:f846e51adb2a9474e99de133c1f8ca59",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:88396f1e41443f140a488bc0fee4a1a0",
+        "GUID:639aa08b2a80f1a4e8cee1d2c28429b6"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

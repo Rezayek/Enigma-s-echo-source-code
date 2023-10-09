@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52d533c4e0efa9b4bb3cb9c3cd3b1947, type: 3}
+  m_Name: Banshee State Hunt
+  m_EditorClassIdentifier: 
+  state: 3
+  animation: 5
+  stateAudio: 0
+  minDistanceBeforeAttack: 3
+  minDistanceBeforeVanish: 10
+  CheckPointCall: {fileID: 11400000, guid: 0b0cf4d5d1a8ff84ab04dac826566197, type: 2}
